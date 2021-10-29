@@ -25,6 +25,48 @@ header h3 {
 main {
 	clear: left;
 }
+main h1 {
+	font-size: 130%
+	}
+main h2{
+	font-size; 130%
+	color; #800000
+}
+main h3{
+	font-size: 105%
+	}
+	
+main a:hover {
+	font-style:italic;
+	}
+	
+main a:focus {
+	font-style:italic;
+	}
+footer p {
+	text-align: center;
+	}
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 
 /* the styles for the footer */
